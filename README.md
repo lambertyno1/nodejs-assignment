@@ -35,5 +35,6 @@ This repository contains a containerized Node.js application deployed using Dock
 
 ### 4. Live Application
 ![Live Application](screenshots/live_app.png)
-<img width="1600" height="851" alt="WhatsApp Image 2026-09-04 at 5 57 24 PM" src="https://github.com/user-attachments/assets/2f0bf4a1-3ba8-499d-968b-d79e6585ca7f" />
+<img width="805" height="435" alt="image" src="https://github.com/user-attachments/assets/623ea60f-fce1-4f51-aea4-b7f30d99782c" />
+
 
